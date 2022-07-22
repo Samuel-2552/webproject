@@ -20,7 +20,8 @@ body {
 
 h2 {
   font-family: "Roboto", sans-serif;
-  font-size: 26px;
+  font-variant: small-caps;
+  font-size: 36px;
   line-height: 1;
   color: #454cad;
   margin-bottom: 0;
